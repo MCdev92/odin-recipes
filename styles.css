@@ -1,0 +1,58 @@
+body 
+{
+background-color: beige;
+}
+
+/*this will change the way the tittle looks*/
+h1
+{
+    text-align: center;
+    text-decoration: underline;
+    margin:3%;
+    margin-top: 5%;
+    font-weight: bold;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    font-size: 50px;
+}
+/*this will move gif image position to center and add a border*/
+.center
+{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    border: 0px solid rgb(22, 16, 75);
+    border-radius: 25px;
+    box-shadow: 3px 3px 30px rgba(0, 0, 0, 0.5)
+}
+
+
+/*this ids will change the way the text of linked pages look*/
+#pkg, #ramen, #cbb
+{
+    font-family: 'Courier New', Courier, monospace;
+    margin: 10px;
+    height: auto;
+    font-size: 20px;
+    font-weight: bold;
+    text-decoration:  
+}
+/*this take the underline and the blue color of linked pages */
+a:link
+{
+    text-decoration: none;
+    color: #000f;
+}
+
+/*this will create a box around the text or section*/
+/*box-shadow: 3px 2px 30px rgba(0, 0, 0, 0.5) will add a soft shadow around box*/
+ul
+{   display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 40%;
+    border: 1px solid rgb(22, 16, 75);
+    border-radius: 25px;
+    padding: 50px;
+    box-shadow: 3px 2px 30px rgba(0, 0, 0, 0.5)
+}
