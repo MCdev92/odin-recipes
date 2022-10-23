@@ -20,7 +20,7 @@ h1
     display: block;
     margin-left: auto;
     margin-right: auto;
-    width: 50%;
+    width: 40%;
     border: 0px solid rgb(22, 16, 75);
     border-radius: 25px;
     box-shadow: 3px 3px 30px rgba(0, 0, 0, 0.5)
@@ -34,8 +34,7 @@ h1
     margin: 10px;
     height: auto;
     font-size: 20px;
-    font-weight: bold;
-    text-decoration:  
+    font-weight: bold; 
 }
 /*this take the underline and the blue color of linked pages */
 a:link
@@ -50,7 +49,7 @@ ul
 {   display: block;
     margin-left: auto;
     margin-right: auto;
-    width: 40%;
+    width: 35%;
     border: 1px solid rgb(22, 16, 75);
     border-radius: 25px;
     padding: 50px;
