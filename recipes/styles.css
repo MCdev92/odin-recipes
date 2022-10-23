@@ -68,4 +68,8 @@ h1
     margin-top:30px;
     border-radius: 30px;
     width: 80%; 
+    background-color:cornsilk;
+    background-blend-mode: color-dodge;
+    box-shadow: 3px 3px 30px rgba(0, 0, 0, 0.5)
+    
 }
